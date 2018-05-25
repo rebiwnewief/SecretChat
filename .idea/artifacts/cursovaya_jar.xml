@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cursovaya:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cursovaya_jar</output-path>
+    <root id="archive" name="cursovaya.jar">
+      <element id="module-output" name="cursovaya" />
+      <element id="extracted-dir" path="C:/java/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

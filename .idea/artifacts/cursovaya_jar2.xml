@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cursovaya:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/cursovaya_jar2</output-path>
+    <root id="archive" name="cursovaya.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="cursovaya" />
+      <element id="extracted-dir" path="C:/java/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
